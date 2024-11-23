@@ -82,4 +82,4 @@ The goal of this project is to identify 38 different plant diseases from RGB ima
 ## Author
 **Mohamed Ahmed Gadia**  
 Email: [mohamedgadia00@gmail.com]  
-LinkedIn: [mohamedgadia](www.linkedin.com/in/mohamedgadia)  
+LinkedIn: [www.linkedin.com/in/mohamedgadia](www.linkedin.com/in/mohamedgadia)  
