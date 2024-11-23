@@ -54,7 +54,7 @@ The goal of this project is to identify 38 different plant diseases from RGB ima
 ## Results
 - **Train Accuarcy**: Achieved high accuracy during training, demonstrating the model's ability to learn effectively from the data.
 - **Validation Accuracy**:Consistently aligned with training accuracy, indicating that the model generalizes well without overfitting.
-- **Test Accuracy**: The model achieved an outstanding 98% accuracy on the test dataset, demonstrating its robustness in correctly classifying plant diseases across unseen data.
+- **Test Accuracy**: The model achieved an outstanding **98%** accuracy on the test dataset, demonstrating its robustness in correctly classifying plant diseases across unseen data.
 - **Key Metrics**: Classification report includes precision, recall, and F1-score for each class.
 
 ---
