@@ -1,5 +1,5 @@
 
-# Green Defend CNN
+# Green Defend-CNN
 
 This repository contains the implementation of a Convolutional Neural Network (CNN) designed to classify plant diseases from images, using a dataset of healthy and diseased crop leaves.
 
@@ -73,7 +73,7 @@ The goal of this project is to identify 38 different plant diseases from RGB ima
 
 ---
 
-## Author
+## Programmer
 **Mohamed Ahmed Gadia**  
 Email: [mohamedgadia00@gmail.com]  
 LinkedIn: [Mohamed Gadia](https://www.linkedin.com/in/mohamedgadia) 
