@@ -1,7 +1,11 @@
 
 # Green Defend-CNN
 
-This repository contains the implementation of a Convolutional Neural Network (CNN) designed to classify plant diseases from images, using a dataset of healthy and diseased crop leaves.
+**Graduation Project from Mansoura Higher Institute of Engineering and Technology (Engineering College)**
+
+- Developed a mobile and web application leveraging artificial intelligence to detect plant diseases with an accuracy of 98%.
+- Built a model based on Convolutional Neural Networks (CNN) to classify 38 plant diseases using over 87,000 images.
+- Successfully integrated the model into a mobile and web application, providing a practical and user-friendly solution for farmers and agricultural experts.
 
 ---
 
