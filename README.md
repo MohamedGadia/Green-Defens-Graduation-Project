@@ -67,7 +67,7 @@ The goal of this project is to identify 38 different plant diseases from RGB ima
 ---
 
 ### Key Libraries:
-- TensorFlow
+- TensorFlow(with Keras)
 - Pandas
 - NumPy
 - Matplotlib
